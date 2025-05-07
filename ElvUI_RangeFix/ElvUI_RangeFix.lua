@@ -45,7 +45,7 @@ local function SafeUpdateRangeCheckSpells()
             E:Print("ElvUI_RangeFix: Applied fallback range check for class:", class)
             UF.RangeCheckSpells = spells
         else
-            E:Print("ElvUI_RangeFix: No fallback range check data found for class:", class)
+            E:Print("ElvUI_RangeFix: No fallback range check data found for class:", class)  --Throws errors for all other classes when update fires need to fix
         end
     end
 end
