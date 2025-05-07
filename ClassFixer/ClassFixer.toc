@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: ClassFixer
+## Notes: Injects missing class constants like LOCALIZED_CLASS_NAMES_MALE
+## Version: 1.1
+## Author: Peap
+ClassFixer.lua
+ClassFixerConfig.lua
+ClassFixer.xml

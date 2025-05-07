@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: ElvUI Range Fix
+## Notes: Fixes range check nil error in ElvUI
+## Author: Peap
+## Version: 1.0
+## RequiredDeps: ElvUI
+ElvUI_RangeFix.lua
